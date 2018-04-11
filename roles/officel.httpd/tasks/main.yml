@@ -13,7 +13,7 @@
   file:
     path: /var/log/httpd
     state: directory
-    mode: "{{ var_log_httpd_permission | default('0755') }}"
+    mode: "{{ var_log_httpd_permission | default('0777') }}"
   tags: ['httpd']
 
 - name: chkconfig on

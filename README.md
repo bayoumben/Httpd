@@ -12,5 +12,5 @@ Ce présent document a but de détailler comment installer et configurer httpd.
 Remarque 
 {% endhint %}
 
-
+{% page-ref page="./" %}
 

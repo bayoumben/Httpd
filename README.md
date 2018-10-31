@@ -14,3 +14,19 @@ Remarque
 
 {% page-ref page="chapitre-2.md" %}
 
+{% tabs %}
+{% tab title="First Tab" %}
+#### First Tab 
+
+ui HQCLX&lt;µQC 
+{% endtab %}
+
+{% tab title="Second Tab" %}
+DCN
+
+Qdfp&lt;vnidwcx
+
+qC 
+{% endtab %}
+{% endtabs %}
+

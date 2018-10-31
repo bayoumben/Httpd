@@ -8,15 +8,9 @@ Ce présent document a but de détailler comment installer et configurer httpd.
 
 ### Installation de httpd
 
-1. test
-2. hgs
-3. fcsvrui
-
-{% page-ref page="./" %}
-
-Test zhdlCNX
-
- Zjlkcq qsd 
+{% hint style="info" %}
+Remarque 
+{% endhint %}
 
 
 

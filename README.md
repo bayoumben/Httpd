@@ -1,15 +1,13 @@
 ---
-description: Installation et configuration de HTTPD
+description: >-
+  GitBook is a modern documentation platform where teams can document everything
+  from products, to APIs and internal knowledge-bases.
 ---
 
-# Introduction
-
-Ce présent document a but de détailler comment installer et configurer httpd.
-
-### Installation de httpd
+# What is GitBook
 
 {% hint style="info" %}
-Remarque 
+ This is the documentation for the new version of the GitBook platform. You can learn more about everything that improved in [this ](premier-chapitre.md)version [here](https://docs.gitbook.com/v2-changes). If you are looking for the previous version of GitBook, head to [legacy.gitbook.com](https://legacy.gitbook.com/).
 {% endhint %}
 
 {% page-ref page="chapitre-2.md" %}

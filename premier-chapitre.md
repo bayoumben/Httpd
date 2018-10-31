@@ -1,4 +1,4 @@
 # Premier chapitre
 
-Nous allons mettre dans cette partie le contenu du premier chapitre
+ If you are new to GitBook and want to start a project of yours, start here:
 
